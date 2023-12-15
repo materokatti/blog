@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Software Requirements Specification?"
-date: 2023-12-12 18:00:00
+date: 2023-12-13 18:00:00
 categories: mediator SRS
 tags:
-image: /assets/images/banner.png
-image2: /assets/images/banner.png
+image: /assets/images/postFooter.jpg
+image2: /assets/images/postBanner.jpg
 ---
 
 # 기능요구서를 왜 쓸까?
